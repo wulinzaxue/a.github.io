@@ -6,7 +6,7 @@ email: lilei200010@gmail.com
 description: "这是柳耒的个人博客，整理了一些乱七八糟的知识！ | 目前是半导体行业的一名CMP工程师"
 keyword: "柳耒,Val,CMP,伍林杂学,柳岸无风"
 url: "https://roselifetotj.github.io/" # your host, for absolute URL
-baseurl: "https://wulinzaxue.github.io/" # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "https://a.github.io/" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
 future: true
